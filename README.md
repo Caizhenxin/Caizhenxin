@@ -11,7 +11,7 @@
         left: 0;  
     }  
 </style>  
-<img src="url" class="position-absolute">
+<img src="https://github.com/Caizhenxin/Caizhenxin/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20231026104850.jpg" class="position-absolute">
 [1](https://github.com/Caizhenxin/Caizhenxin/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20231026104850.jpg)
 <!---
 Caizhenxin/Caizhenxin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
