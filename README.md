@@ -5,11 +5,7 @@
 - 🌱 I’m currently studying at Qinghai Nationalities University
 - 📫 You can connect me by email. My emial is 1372279952@qq.com
 - Because I'm new here,any comments and suggestions are welcomed!!!
-<iframe width="560" height="315" src="https://www.youtube.com/embed/69zkjCY0fas?si=u63-gZCw8gECMdMV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-<video width="560" height="315" controls>  
-  <source src="https://www.youtube.com/embed/69zkjCY0fas?si=u63-gZCw8gECMdMV" type="video/mp4">  
-  Your browser does not support the video tag.  
-</video>
+
 
 
 
