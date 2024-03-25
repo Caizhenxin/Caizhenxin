@@ -6,6 +6,14 @@
 - 📫 You can connect me by email. My emial is 1372279952@qq.com or Idle.Mr.Xin@Gmial.com
 - Because I'm new here,any comments and suggestions are welcomed!!!
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/><a href="https://cloud.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://cloud.r-project.org/Rlogo.svg" alt="R" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=caizhenxin&show_icons=true&locale=en&layout=compact" alt="caizhenxin" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=caizhenxin&show_icons=true&locale=en" alt="caizhenxin" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=caizhenxin&" alt="caizhenxin" /></p>
 
 
 
