@@ -7,6 +7,14 @@
 - Because I'm new here,any comments and suggestions are welcomed!!!
 
 ---
+<!-- github-stats:start -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<img align="right" width="450" src="https://github-readme-stats.vercel.app/api?username=Caizhenxin&show_icons=true&icon_color=0078e7&title_color=0078e7&include_all_commits=true"/>
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+<!-- github-stats:end -->
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/><a href="https://cloud.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://cloud.r-project.org/Rlogo.svg" alt="R" width="40" height="40"/> </a> </p>
