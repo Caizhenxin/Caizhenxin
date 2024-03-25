@@ -1,3 +1,5 @@
+<h1 align="center">👀Brief Self-introduction</h1>
+<h3 align="center">An ordinary college student who is interested Psychology.</h3>
 <img src="https://github.com/Caizhenxin/Caizhenxin/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20231026104850.jpg" width = "200" height = "200" align="right">
 
 - 👋 Hi, I’m Caizhenxin,a student from Chian.
@@ -9,13 +11,18 @@
 ---
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/><a href="https://cloud.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://cloud.r-project.org/Rlogo.svg" alt="R" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <a> 
+    <a href="https://cloud.r-project.org/" target="_blank" rel="noreferrer"> 
+      <img src="https://cloud.r-project.org/Rlogo.svg" alt="R" width="40" height="40"/> 
+    </a>
+</p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=caizhenxin&show_icons=true&locale=en&layout=compact" alt="caizhenxin" /></p>
+
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=caizhenxin&show_icons=true&locale=en" alt="caizhenxin" /></p>
-
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=caizhenxin&" alt="caizhenxin" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=caizhenxin&show_icons=true&locale=en&layout=compact" alt="caizhenxin" /></p>
 
 
 
