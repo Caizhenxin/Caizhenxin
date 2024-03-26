@@ -7,7 +7,8 @@
 - 🌱 I’m currently studying at Qinghai Nationalities University
 - 📫 You can connect me by email. My emial is 1372279952@qq.com or Idle.Mr.Xin@Gmial.com
 - Because I'm new here,any comments and suggestions are welcomed!!!
-  
+> By the way, are you also curious about how to generate the list?
+
 ---
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Caizhenxin&show_icons=true&locale=en" alt="Caizhenxin" />
 
@@ -23,7 +24,6 @@
 <a href="https://twitter.com/idle_mr.xin" target="blank">
   <img align="center" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_2x_r5.png" alt="idle_mr.xin" height="30" width="70" /></a>
 </p>
-
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
