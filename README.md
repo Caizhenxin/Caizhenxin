@@ -15,14 +15,15 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://cloud.r-project.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://cloud.r-project.org/Rlogo.svg" alt="R" width="40" height="40"/>
+    <img src="https://cloud.r-project.org/Rlogo.svg" alt="R" width="40" height="40"/>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/idle_mr.xin" target="blank">
-  <img align="center" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_2x_r5.png" alt="idle_mr.xin" height="30" width="70" /></a>
+  <a href="https://mail.google.com/" target="blank">
+    <img align="center" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_2x_r5.png" alt="idle_mr.xin" height="30" width="70" />
+  </a>
 </p>
 
 <p align="left">
