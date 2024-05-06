@@ -1,4 +1,4 @@
-<h1 align="center">👀Brief Self-introduction</h1>
+<h1 align="center">Welcome(◍˃̶ᗜ˂̶◍)✩</h1>
 <h3 align="center">An ordinary college student who is interested Psychology.</h3>
 <img src="https://github.com/Caizhenxin/Caizhenxin/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20231026104850.jpg" width = "200" height = "200" align="right">
 
