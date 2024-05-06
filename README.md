@@ -7,7 +7,7 @@
 - 🌱 I’m currently studying at Qinghai Nationalities University
 - 📫 You can connect me by email. My emial is 1372279952@qq.com or Idle.Mr.Xin@Gmial.com
 - Because I'm new here,any comments and suggestions are welcomed!!!
-> ❤️I hope that days will be quite.  
+> ❤️I hope that days will be quite.(◍˃̶ᗜ˂̶◍)✩ 
 
 ---
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Caizhenxin&show_icons=true&locale=en" alt="Caizhenxin" />
