@@ -4,7 +4,7 @@
 
 - 👋 Hi, I’m Caizhenxin,a student from Nanjing Normal University,Chian.
 - 👀 I’m interested in Psychology and want to be a reseacher in the future.
-- 🌱 I’m currently studying at Qinghai Nationalities University
+- 🌱 I’m currently studying at Nanjing Normal University.
 - 📫 You can connect me by email. My emial is 1372279952@qq.com or Idle.Mr.Xin@Gmial.com
 - Because I'm new here,any comments and suggestions are welcomed!!!
 > ❤️I hope that days will be quite.(◍˃̶ᗜ˂̶◍)✩ 
