@@ -2,10 +2,10 @@
 <h3 align="center">An ordinary college student who is interested Psychology.</h3>
 <img src="https://github.com/Caizhenxin/Caizhenxin/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20231026104850.jpg" width = "200" height = "200" align="right">
 
-- 👋 Hi, I’m Caizhenxin,a student from Nanjing Normal University,Chian.
-- 👀 I’m interested in Psychology and want to be a reseacher in the future.
-- 🌱 I’m currently studying at Nanjing Normal University.
-- 📫 You can contact me by email. My email addresses are 1372279952@qq.com or Idle.Mr.Xin@gmail.com.
+- 👋 Hi, I’m Caizhenxin,from Hengyang,Hunan,which is a small city in China.
+- 👀 I'm fascinated by psychology and aspire to be a researcher in the future.
+- 🌱 I am currently studying at Nanjing Normal University in China.
+- 📫 You can contact me by email. My email addresses are czx@nnu.edu.cn or Idle.Mr.Xin@gmail.com.
 - Because I'm new here,any comments and suggestions are welcomed!!!
 > ❤️I hope that days will be quite.(◍˃̶ᗜ˂̶◍)✩ 
 
