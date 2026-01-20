@@ -18,6 +18,9 @@
     <img src="https://cloud.r-project.org/Rlogo.svg" alt="R" width="40" height="40"/>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="MATLAB" width="40" height="40"/>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
