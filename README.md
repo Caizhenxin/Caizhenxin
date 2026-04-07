@@ -10,7 +10,12 @@
 > ❤️I hope that days will be quite.(◍˃̶ᗜ˂̶◍)✩ 
 
 ---
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Caizhenxin&show_icons=true&locale=en" alt="Caizhenxin" />
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=%E4%BB%BF%E5%AE%8B&weight=800&size=30&pause=3000&color=0F1A1A&center=true&vCenter=true&width=800&lines=%E5%A4%A7%E9%81%93%E4%BA%94%E5%8D%81%EF%BC%8C%E5%A4%A9%E8%A1%8D%E5%9B%9B%E4%B9%9D%EF%BC%8C%E4%BA%BA%E9%81%81%E5%85%B6%E4%B8%80" alt="Typing SVG" /></a>
+</div>
+
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
