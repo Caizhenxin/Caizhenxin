@@ -29,19 +29,14 @@
   </a>
 </p>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=caizhenxin" alt="caizhenxin" />
-  </a>
-</p>
-
-<div>
+  <!--Snake Code Contribution Map 贪吃蛇代码贡献图-->
   <picture>
-    <source style="min-width: 100%;" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Caizhenxin/Caizhenxin/output/github-snake-dark.svg">
-    <source style="min-width: 100%;" media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Caizhenxin/Caizhenxin/output/github-snake.svg">
-    <img style="min-width: 100%;" src="https://raw.githubusercontent.com/Caizhenxin/Caizhenxin/output/github-snake.svg" alt="GitHub Snake">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/github-snake.svg" />
+    <img width="100%" alt="github-snake" src="./assets/github-snake.svg" />
   </picture>
-</div>
+
+
 
 
 
