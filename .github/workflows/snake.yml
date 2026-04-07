@@ -26,8 +26,8 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            assets/github-snake.svg
-            assets/github-snake-dark.svg?palette=github-dark
+            github-snake.svg
+            github-snake-dark.svg?palette=github-dark
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
@@ -35,7 +35,7 @@ jobs:
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./assets
+          publish_dir: ./
           publish_branch: output
           commit_message: "Update snake animation [skip ci]"
           allow_empty_commit: true
