@@ -19,18 +19,29 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-  <a href="https://cloud.r-project.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://cloud.r-project.org/Rlogo.svg" alt="R" width="40" height="40"/>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="MATLAB" width="40" height="40"/>
+
+  <a href="https://cloud.r-project.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  </a>
+  <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB" />
+  </a>
+</p>
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://mail.google.com/" target="blank">
-    <img align="center" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_2x_r5.png" alt="idle_mr.xin" height="30" width="70" />
+<p align="center">
+  <a href="mailto:czx@nnu.edu.cn" target="_blank">
+    <img src="https://img.shields.io/badge/📧%20School%20Email-czx@nnu.edu.cn-red?style=for-the-badge" alt="School Email" />
+  </a>
+  <a href="mailto:Idle.Mr.Xin@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/📧%20Gmail-Idle.Mr.Xin@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://caizhenxin.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Blog-caizhenxin.github.io-181717?style=for-the-badge&logo=github" alt="Blog" />
   </a>
 </p>
 
