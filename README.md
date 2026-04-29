@@ -1,32 +1,13 @@
-<div align="center">
-  <img src="https://github.com/Caizhenxin/Caizhenxin/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20231026104850.jpg" width="180" height="180" style="border-radius: 50%;" />
-  
-  <h1>👋 Hi, I'm <a href="https://caizhenxin.github.io/">Cai Zhenxin</a></h1>
-  <h3>✨ An ordinary college student who is passionate about Psychology ✨</h3>
-  
-  <p>
-    <a href="https://caizhenxin.github.io/" target="_blank">
-      <img src="https://img.shields.io/badge/🌐%20Personal%20Website-caizhenxin.github.io-blue?style=for-the-badge&logo=github" alt="Personal Website" />
-    </a>
-    <a href="assets/CV_Caizhenxin.pdf" target="_blank">
-      <img src="https://img.shields.io/badge/📄%20Download%20CV-PDF-green?style=for-the-badge&logo=adobe" alt="Download CV" />
-    </a>
-  </p>
-</div>
+<h1 align="center">👀Brief Self-introduction</h1>
+<h3 align="center">An ordinary college student who is interested Psychology.</h3>
+<img src="https://github.com/Caizhenxin/Caizhenxin/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20231026104850.jpg" width = "200" height = "200" align="right">
 
----
-
-### 📝 About Me
-
-| | |
-|:---|:---|
-| 🏠 **Hometown** | Hengyang, Hunan, China |
-| 🎓 **Education** | Nanjing Normal University, China |
-| 💡 **Interest** | Psychology & Research |
-| 📧 **Email** | czx@nnu.edu.cn / Idle.Mr.Xin@gmail.com |
-
-> 🌟 *Because I'm new here, any comments and suggestions are welcomed!*  
-> ❤️ *I hope that days will be quite.* (◍˃̶ᗜ˂̶◍)✩ 
+- 👋 Hi, I’m Caizhenxin,from Hengyang,Hunan,which is a small city in China.
+- 👀 I'm fascinated by psychology and aspire to be a researcher in the future.
+- 🌱 I am currently studying at Nanjing Normal University in China.
+- 📫 You can contact me by email. My email addresses are czx@nnu.edu.cn or Idle.Mr.Xin@gmail.com.
+- Because I'm new here,any comments and suggestions are welcomed!!!
+> ❤️I hope that days will be quite.(◍˃̶ᗜ˂̶◍)✩ 
 
 ---
 <div align="center">
@@ -36,9 +17,9 @@
 
 
 
-### 🛠️ Languages and Tools
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
 
-<p align="center">
   <a href="https://cloud.r-project.org/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
   </a>
@@ -50,10 +31,8 @@
   </a>
 </p>
 
----
 
-### 📫 Connect with Me
-
+<h3 align="left">Connect with me:</h3>
 <p align="center">
   <a href="mailto:czx@nnu.edu.cn" target="_blank">
     <img src="https://img.shields.io/badge/📧%20School%20Email-czx@nnu.edu.cn-red?style=for-the-badge" alt="School Email" />
