@@ -1,13 +1,32 @@
-<h1 align="center">👀Brief Self-introduction</h1>
-<h3 align="center">An ordinary college student who is interested Psychology.</h3>
-<img src="https://github.com/Caizhenxin/Caizhenxin/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20231026104850.jpg" width = "200" height = "200" align="right">
+<div align="center">
+  <img src="https://github.com/Caizhenxin/Caizhenxin/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20231026104850.jpg" width="180" height="180" style="border-radius: 50%;" />
+  
+  <h1>👋 Hi, I'm <a href="https://caizhenxin.github.io/">Cai Zhenxin</a></h1>
+  <h3>✨ An ordinary college student who is passionate about Psychology ✨</h3>
+  
+  <p>
+    <a href="https://caizhenxin.github.io/" target="_blank">
+      <img src="https://img.shields.io/badge/🌐%20Personal%20Website-caizhenxin.github.io-blue?style=for-the-badge&logo=github" alt="Personal Website" />
+    </a>
+    <a href="assets/CV_Caizhenxin.pdf" target="_blank">
+      <img src="https://img.shields.io/badge/📄%20Download%20CV-PDF-green?style=for-the-badge&logo=adobe" alt="Download CV" />
+    </a>
+  </p>
+</div>
 
-- 👋 Hi, I’m Caizhenxin,from Hengyang,Hunan,which is a small city in China.
-- 👀 I'm fascinated by psychology and aspire to be a researcher in the future.
-- 🌱 I am currently studying at Nanjing Normal University in China.
-- 📫 You can contact me by email. My email addresses are czx@nnu.edu.cn or Idle.Mr.Xin@gmail.com.
-- Because I'm new here,any comments and suggestions are welcomed!!!
-> ❤️I hope that days will be quite.(◍˃̶ᗜ˂̶◍)✩ 
+---
+
+### 📝 About Me
+
+| | |
+|:---|:---|
+| 🏠 **Hometown** | Hengyang, Hunan, China |
+| 🎓 **Education** | Nanjing Normal University, China |
+| 💡 **Interest** | Psychology & Research |
+| 📧 **Email** | czx@nnu.edu.cn / Idle.Mr.Xin@gmail.com |
+
+> 🌟 *Because I'm new here, any comments and suggestions are welcomed!*  
+> ❤️ *I hope that days will be quite.* (◍˃̶ᗜ˂̶◍)✩ 
 
 ---
 <div align="center">
@@ -17,20 +36,33 @@
 
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://cloud.r-project.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://cloud.r-project.org/Rlogo.svg" alt="R" width="40" height="40"/>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="MATLAB" width="40" height="40"/>
+### 🛠️ Languages and Tools
 
+<p align="center">
+  <a href="https://cloud.r-project.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  </a>
+  <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB" />
+  </a>
+</p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://mail.google.com/" target="blank">
-    <img align="center" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_2x_r5.png" alt="idle_mr.xin" height="30" width="70" />
+---
+
+### 📫 Connect with Me
+
+<p align="center">
+  <a href="mailto:czx@nnu.edu.cn" target="_blank">
+    <img src="https://img.shields.io/badge/📧%20School%20Email-czx@nnu.edu.cn-red?style=for-the-badge" alt="School Email" />
+  </a>
+  <a href="mailto:Idle.Mr.Xin@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/📧%20Gmail-Idle.Mr.Xin@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://caizhenxin.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Blog-caizhenxin.github.io-181717?style=for-the-badge&logo=github" alt="Blog" />
   </a>
 </p>
 
